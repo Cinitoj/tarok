@@ -4,6 +4,7 @@ Za delovanje potrebuje:
 - Python3
 - boltons: https://pypi.org/project/boltons/ (pip install boltons)
     razlog je iterutils.chunked(), ki razreže seznam na več podseznamov določene dolžine in jih vrne kot en seznam s podseznami
+- zelo možno še kaj :)
 
 
 Play.py
